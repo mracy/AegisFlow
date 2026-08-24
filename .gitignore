@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+.env
+.env.local
+.env.*.local
+dist
+*.log
+.next
+.DS_Store
+__pycache__
+*.pyc
+.pytest_cache

@@ -1,0 +1,19 @@
+{
+  "name": "aegisflow",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Autonomous multi-agent execution system",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "echo 'dev script TBD'",
+    "build": "echo 'build script TBD'",
+    "test": "echo 'test script TBD'"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "packageManager": "pnpm@9.0.0"
+}
